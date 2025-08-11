@@ -10,11 +10,11 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 ![Real-time](https://img.shields.io/badge/Updates-Real--time-brightgreen)
 ![No Azure Services](https://img.shields.io/badge/Azure%20Services-Not%20Required-orange)
-[![GitHub stars](https://img.shields.io/github/stars/yourusername/power-bi-realtime-dashboard?style=social)](https://github.com/yourusername/power-bi-realtime-dashboard)
+[![GitHub stars](https://img.shields.io/github/stars/VikramKavuri/power-bi-realtime-dashboard?style=social)](https://github.com/VikramKavuri/power-bi-realtime-dashboard)
 
 **Monitor Windows Performance Metrics in Real-time with Power BI - No Complex Infrastructure Required!**
 
-[View Demo](#-live-demo) · [Report Issues](https://github.com/yourusername/power-bi-realtime-dashboard/issues) · [Request Features](https://github.com/yourusername/power-bi-realtime-dashboard/issues)
+[View Demo](#-live-demo) · [Report Issues](https://app.powerbi.com/links/OdX0WyqgcH?ctid=4d3694c5-30db-415b-877c-bd2163526c94&pbi_source=linkShare) · [Request Features](https://github.com/VikramKavuri/power-bi-realtime-dashboard/issues)
 
 <img src="doc/images/dashboard-preview.gif" alt="Dashboard Preview" width="800">
 
