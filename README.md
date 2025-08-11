@@ -411,10 +411,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 **VIKRAM KAVURI**
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vikramkavuri)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vikramkavuri)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thrivikrama-rao-kavuri-7290b6147/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://vikramkavuri.com)
 
-📧 **Contact**: vikram.kavuri@email.com
+📧 **Contact**: tkavuri@buffalo.edu.in
 
 </div>
 
