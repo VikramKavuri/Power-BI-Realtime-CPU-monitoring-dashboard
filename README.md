@@ -14,7 +14,7 @@
 
 **Monitor Windows Performance Metrics in Real-time with Power BI - No Complex Infrastructure Required!**
 
-[View Demo](#-live-demo) · [Report Issues](https://app.powerbi.com/links/OdX0WyqgcH?ctid=4d3694c5-30db-415b-877c-bd2163526c94&pbi_source=linkShare) · [Request Features](https://github.com/VikramKavuri/power-bi-realtime-dashboard/issues)
+[View Demo](https://app.powerbi.com/links/OdX0WyqgcH?ctid=4d3694c5-30db-415b-877c-bd2163526c94&pbi_source=linkShare) · [Report Issues](https://app.powerbi.com/links/OdX0WyqgcH?ctid=4d3694c5-30db-415b-877c-bd2163526c94&pbi_source=linkShare) · [Request Features](https://github.com/VikramKavuri/power-bi-realtime-dashboard/issues)
 
 <img src="doc/images/dashboard-preview.gif" alt="Dashboard Preview" width="800">
 
